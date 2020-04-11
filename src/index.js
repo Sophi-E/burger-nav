@@ -1,5 +1,3 @@
-// var burger = document.getElementById('burger');
-
 function myFunction() {
   var x = document.getElementById("myTopnav");
   if (x.className === "topnav") {
